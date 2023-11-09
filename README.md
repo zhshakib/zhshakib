@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zhshakib
-- 👀 I’m interested in Programming! 
-- 🌱 I’m currently learning Flask Rest Api...
+- 👀 I’m interested in Programming!
+- 🌱 I’m currently solving problems on codeforces, Atcoder Topcoder, and HackerRank.
 - 💞️ I’m looking to collaborate on Store Management Sytems On Github!
-- 📫 How to reach me? - [Facebook](https://fb.com/zhshakib) , [Whatsapp](+8801608567359)
+- 📫 How to reach me? - [Facebook](https://fb.com/noobzh) , [Whatsapp](+8801608567359)
 
 <!---
 zhshakib/zhshakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
